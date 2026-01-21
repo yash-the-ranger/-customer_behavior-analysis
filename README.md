@@ -125,6 +125,7 @@ Focus targeted marketing on high-revenue age groups and premium shipping users
 
 Project Structure
 Customer-Shopping-Behavior-Analysis/
+
 │
 ├── data/                 # Raw and cleaned datasets
 ├── notebooks/            # Python data preparation and analysis
